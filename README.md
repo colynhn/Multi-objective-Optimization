@@ -21,6 +21,8 @@
      I.用户层面：任务的整体完成时间 （最小化）
     II.集群层面：集群各节点的负载均衡的标准差 （最小化）
     
+3.最终结果参见ResultImages.
+    
     
  更多问题：Contact：colynhn@gmail.com or colynhn@foxmail.com
             
